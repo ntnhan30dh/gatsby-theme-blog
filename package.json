@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-theme-blog",
+  "version": "1.0.0",
+  "description": "Yarn workspace for maintaining gatsby-theme-blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nhan Nguyen",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "gatsby-theme-wp-parent",
+    "gatsby-theme-wp-child",
+    "demo"
+  ],
+  "packageManager": "yarn@3.6.1"
+}

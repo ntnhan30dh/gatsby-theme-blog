@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "gatsby": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
+  "dependencies": {
+    "gatsby": "*",
+    "gatsby-theme-wp-child": "workspace:^",
+    "react": "*",
+    "react-dom": "*"
+  }
+}

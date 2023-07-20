@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "gatsby-theme-wp-parent",
+  "version": "1.0.0",
+  "description": "theme-wp-parent theme for gatsby wp blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nhan Nguyen",
+  "license": "ISC",
+  "peerDependencies": {
+    "gatsby": "*",
+    "react": "*",
+    "react-dom": "*"
+  }
+}
